@@ -6,7 +6,7 @@ single line with 12 individual blocks, you can make lines disappear. If a comple
 # Key Features
 **Languages and frameworks:** I developed the game entirely in Java using a Java UI framework called Swing.
 
-**Tetramino:** The implementation features four distinct Tetramino that I managed to manipulate.
+**Tetramino:** The implementation features four distinct Tetramino that I managed to manipulate and shape.
 
 **Controls:** Utilized different controls for the player to move the Tetramino. There is also a pause feature if the player wants a break. All of this ensures an enjoyable and intuitive user experience.
 
